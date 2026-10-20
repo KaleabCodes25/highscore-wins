@@ -1,4 +1,10 @@
 package com.pluralsight;
 
-public class HighScoreWins {
+import java.util.Scanner;
+
+public class HighscoreWins {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+    }
 }
